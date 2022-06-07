@@ -9,7 +9,7 @@ N_rx = 8;
 
 nPRB = 20;
 
-fc =  30e9;  % Frequência central
+fc =  5.8e9;  % Frequência central
 n  =  3;
 
 % n=0 -> Df = 15Khz * 2^(0)
