@@ -4,8 +4,8 @@ clc ;
 M_tx = 1;
 N_tx = 1;
 
-M_rx = 8;
-N_rx = 8;
+M_rx = 1;#8;
+N_rx = 1;#8;
 
 nPRB = 20;
 
